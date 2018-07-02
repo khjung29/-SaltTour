@@ -1,5 +1,5 @@
 { 
-  "channels" : [
+  "channels" :
     {
       "title" : "짠내투어",
       "fbNativeInterval" : "3",
@@ -27,6 +27,5 @@
       "item" : [
           { "title" : "", "id" : "", "img" : "", "sort" : "1"}
       ]
-    }    
-  ]
+    }
 }
